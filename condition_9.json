@@ -1,0 +1,25 @@
+{
+  "resourceType": "Condition",
+  "id": "c9423f8b-e65e-4f78-8cf9-6b1a60b8355c",
+  "clinicalStatus": "resolved",
+  "verificationStatus": "confirmed",
+  "code": {
+    "coding": [
+      {
+        "system": "http://snomed.info/sct",
+        "code": "58150001",
+        "display": "Fracture of clavicle"
+      }
+    ],
+    "text": "Fracture of clavicle"
+  },
+  "subject": {
+    "reference": "urn:uuid:ac3de6f1-e236-4200-b9da-f1b7758de992"
+  },
+  "context": {
+    "reference": "urn:uuid:d6546944-c71d-4f5c-9f35-f401b1f4c24a"
+  },
+  "onsetDateTime": "2016-05-21T07:22:41-04:00",
+  "abatementDateTime": "2016-06-20T07:22:41-04:00",
+  "assertedDate": "2016-05-21T07:22:41-04:00"
+}
